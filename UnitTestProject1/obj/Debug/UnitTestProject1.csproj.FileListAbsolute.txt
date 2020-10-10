@@ -1,0 +1,16 @@
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\QA\Hack\Azure\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
